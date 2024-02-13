@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553046507702",
+    "project_id": "proyectoandroidstudiorubenrc",
+    "storage_bucket": "proyectoandroidstudiorubenrc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553046507702:android:9e2f9245caa254ba4e2617",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_rubenramirez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZjmzP8X3_j_7Zv4VWTZ-CxuW65-AAvWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Inicio"
+        android:id="@+id/Inicio"
+        />
+    <item android:title="Insertar Ajedrecista"
+        android:id="@+id/insertar_ajedrecista"
+        />
+    <item android:title="Borrar Ajedrecista"
+        android:id="@+id/borrar_ajedrecista"
+        />
+    <item android:title="Actualizar Ajedrecista"
+        android:id="@+id/actualizar_ajedrecista"
+        />
+    <item android:title="Cerrar Sesión"
+        android:id="@+id/salir"
+        />
+</menu>
